@@ -2,6 +2,10 @@
 
 This is how you use Scratch TTN.
 
+##### How To Install
+___
+If the IDE you are using has a built in packager, search `scratch-text-to-nums`. If otherwise, open your shell and run `pip install scratch-text-to-nums`
+
 ##### How To Use Encoding
 ___
 To encode a string, simply use this code: `encode('example')`. Replace `example` with your own text.
